@@ -11,7 +11,7 @@ dataSources:
     source:
       abi: CurveRegistry
       address: '0x7002b727ef8f5571cb5f9d70d13dbeeb4dfae9d1'
-      startBlock: 10302524
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -48,7 +48,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56'
-      startBlock: 9554040
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -92,7 +92,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c'
-      startBlock: 9456293
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -136,7 +136,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x06364f10b501e868329afbc005b3492902d6c763'
-      startBlock: 10041041
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -180,7 +180,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51'
-      startBlock: 9476468
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -224,7 +224,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27'
-      startBlock: 9567295
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -268,7 +268,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0xa5407eae9ba41422680e2e00537571bcc53efbfd'
-      startBlock: 9906598
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -312,7 +312,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x93054188d876f558f4a66b2ef1d97d16edf0895b'
-      startBlock: 10151385
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -356,7 +356,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714'
-      startBlock: 10276641
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -400,7 +400,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x4ca9b3063ec5866a4b82e437059d2c43d1be596f'
-      startBlock: 10732328
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -444,7 +444,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7'
-      startBlock: 10809473
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -488,7 +488,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956'
-      startBlock: 11005604
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -532,7 +532,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604'
-      startBlock: 11010070
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -576,7 +576,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb'
-      startBlock: 11010305
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -620,7 +620,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1'
-      startBlock: 11010514
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -664,7 +664,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171'
-      startBlock: 11011556
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -708,7 +708,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956'
-      startBlock: 11005604
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -752,7 +752,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0xc18cc39da8b11da8c3541c598ee022258f9744da'
-      startBlock: 11037531
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -796,7 +796,7 @@ dataSources:
     source:
       abi: StableSwap
       address: '0xc25099792e9349c7dd09759744ea681c7de2cb66'
-      startBlock: 11095928
+      startBlock: 12000000
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
